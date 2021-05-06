@@ -35,8 +35,6 @@
 <br />
 <br />
 
----
-
 </details>
 
 [website]: http://ghmotion.com
