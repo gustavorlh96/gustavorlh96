@@ -16,9 +16,7 @@
 <br />
 <br />
 <br />
-
 </details>
-
 [website]: http://ghmotion.com.br
 [instagram]: https://www.instagram.com/gustavohaag96/
 [linkedin]: https://www.linkedin.com/in/gustavo-haag/
