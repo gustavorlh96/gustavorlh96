@@ -8,10 +8,6 @@
 - 🔎 Looking for an internship / junior job
 - 🎨 I'm also an Motion graphics and CGI artist!
 
-### Spotify Playing 🎶
-
-[<img src="https://spotify-now-playing-gustavorlh96.vercel.app/api/spotify-playing" alt="Gustavo Haag Spotify Playing" width="350" />](https://open.spotify.com/user/22mnctezzpm3x5uk5paa5tzgq)
-
 ### Contact:
 
 [<img align="left" alt="ghmotion.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -45,7 +41,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </details>
 
