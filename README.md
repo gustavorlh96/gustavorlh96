@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎶
 
-[<img src="https://spotify-now-playing-gustavorlh96.vercel.app/api/spotify" alt="Gustavo Haag's Spotify Playing" width="350" />](https://open.spotify.com/user/22mnctezzpm3x5uk5paa5tzgq)
+[<img src="https://spotify-now-playing-gustavorlh96.vercel.app/api/spotify-playing" alt="Gustavo Haag Spotify Playing" width="350" />](https://open.spotify.com/user/22mnctezzpm3x5uk5paa5tzgq)
 
 ### Contact:
 
