@@ -5,7 +5,7 @@
 - 🌱 Currently studying to become a back-end developer
 - ☕ Java is my favourite programming language
 - ✨ Main goal is to become a Software Engineer
-- 🔎 Looking for an internship / junior job
+- 👨‍💻 I'm a software development intern
 - 🎨 I'm also an Motion graphics and CGI artist!
 
 ### Contact:
