@@ -13,8 +13,6 @@
 [<img align="left" alt="Gustavo Haag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gustavo Haag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 <br />
-<br />
-<br />
 
 </details>
 
