@@ -2,7 +2,6 @@
 
 ## I'm a computer science student @Unisinos
 
-- 🌱 Currently studying to become a back-end developer
 - ☕ Java is my favourite programming language
 - ✨ Main goal is to become a Software Engineer
 - 👨‍💻 I'm a software development intern
