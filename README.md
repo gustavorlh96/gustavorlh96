@@ -3,9 +3,8 @@
 ## I'm a computer science student @Unisinos
 
 - ☕ Java is my favourite programming language
-- ✨ Main goal is to become a Software Engineer
-- 👨‍💻 I'm a software development intern
-- 🎨 I'm also an Motion graphics and CGI artist!
+- 👨‍💻 I'm a software development consultant
+- 🎨 I'm also an motion graphics and CGI artist!
 
 ### Contact:
 
